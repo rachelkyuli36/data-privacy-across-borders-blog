@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Front page</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                        <div class="logo">
+                            <h2><a href="#">Classic</a></h2>
+                        </div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="menu">
+                            <ul>
+                                <li class="active"><a href="#">Home</a></li>
+                                <li><a href="#">lifestyle</a></li>
+                                <li><a href="#">Food</a></li>
+                                <li><a href="#">Nature</a></li>
+                                <li><a href="#">photography</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+   <section class="blog-post-area">
+            <div style="margin-left: 18%">
+                <h1> Controversial Ad Campaigns Targeting High School Students by Race Raise Concerns About College Diversity and Inclusion </h1>
+            </div>
+            <div class="single-post" style="margin-left: 18%; margin-right: 18%; margin-top: 2%">
+                <p style="font-size: larger;">
+In a bid to bolster the diversity of their student bodies, universities across the United States have resorted to aggressive advertising campaigns aimed at attracting students from various racial and ethnic backgrounds. While the pursuit of diversity is a commendable objective, recent revelations have unveiled a troubling practice that has left many questioning whether some institutions have gone too far in their efforts. <br><br>
+           
+ During the summer of 2021, the University of San Diego embarked on a controversial mission, funneling a staggering $142,000 into an advertising campaign orchestrated by an agency known as Intersect. The primary goal of this initiative was to dispatch targeted messages to "racial and ethnic minorities" through Naviance, a platform widely used by high school students to explore their undergraduate options. What makes this case even more perplexing is that Intersect's race-based targeting feature was believed to have been discontinued, calling into question the university's intentions.<br><br>
+
+Unfortunately, the University of San Diego is not alone in its use of such strategies. Back in 2016, institutions like the University of Southern Maine were implicated in similar practices. They engaged in Naviance ad campaigns that specifically singled out white, black, and Hispanic students in Massachusetts. In another disconcerting move, their campaign in Maine, New Hampshire, and Vermont exclusively targeted white students.<br><br>
+                    
+The implications of these findings are far-reaching and deeply concerning. Why does it matter that colleges are purchasing ad campaigns that target high school students based on their race while they are in the critical process of researching potential institutions for higher education? <br><br>
+
+For one, it has left many students feeling misled and genuinely perplexed. Some find themselves bombarded with messages and information about colleges in which they have no interest, a disconcerting experience that can negatively impact their college search process. Furthermore, the misuse of racial data in advertising campaigns raises serious questions about whether some colleges are, intentionally or inadvertently, excluding students from their institutions based on their race. <br><br>
+
+These troubling practices stand in stark contrast to the institutions' claims to embrace diversity and inclusivity. For colleges that proudly showcase diversity in their promotional materials and vocally advocate for diverse campuses, these findings paint a disconcerting picture of an industry that may be working against the very principles they purport to champion.<br><br>
+
+
+In conclusion, the utilization of targeted ad campaigns on prominent college research platforms, driven by racial considerations, has the potential to undermine the diversity and inclusivity of the college admissions process. As the debate surrounding these practices intensifies, there is a growing call for accountability and a reevaluation of the methods universities employ to attract prospective students, ensuring that the pursuit of diversity does not come at the expense of fairness and equality.<br><br>
+
+                    <a href="https://themarkup.org/machine-learning/2022/01/13/college-prep-software-naviance-is-selling-advertising-access-to-millions-of-students">
+                </p>
+            </div>
+            
+
+
+
+
+
+
+
+
+            <div class="pegination">
+                <!--
+                <ul>
+                    <li><i class="fa fa-angle-left" aria-hidden="true"></i></li>
+                    <li class="active">1</li>
+                    <li>2</li>
+                    <li>3</li>
+                    <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
+                </ul>
+-->
+
+                <div class="nav-links">
+                    <span class="page-numbers current">1</span>
+                    <a class="page-numbers" href="#">2</a>
+                    <a class="page-numbers" href="#">3</a>
+ <a class="page-numbers" href="#">4</a>
+                    <a class="page-numbers" href="#">5</a>
+                    <a class="page-numbers" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </section>
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="footer-bg">
+                            <div class="row">
+                                <div class="col-md-9">
+                                    <div class="footer-menu">
+                                        <ul>
+                                            <li class="active"><a href="#">Home</a></li>
+                                            <li><a href="#">lifestyle</a></li>
+                                            <li><a href="#">Food</a></li>
+                                            <li><a href="#">Nature</a></li>
+                                            <li><a href="#">photography</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="footer-icon">
+                                        <p><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></p>
+                                    </div>
+                                </div>
+                            </div> .
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/active.js"></script>
+</body>
+</html>
